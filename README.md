@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Anissh babu</h1>
+<h1 align="center">Hi 👋, I'm Anissh</h1>
 <h3 align="center">I am an Electronics Engineer with a passion for both electronics and software development. Developing systems with a combination of hardware and software is something I have always enjoyed. As a self taught programmer, I find microcontroller programming most exciting due its vast applications in real world. I have worked on multiple 8/32 bit microcontrollers and have experience with baremetal programming. All the projects I share are developed from scratch applying my knowledge and skills.</h3>
 
 - 🌱 I’m currently learning **PCB designing**
